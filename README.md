@@ -1,2 +1,2 @@
-# data-analysis
+# Data analysis in python
 Performing data analysis with pandas...
